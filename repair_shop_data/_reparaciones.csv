@@ -1,0 +1,19 @@
+numero_referencia;centro;fecha_entrada;fecha_reparacion;numero_serie;tipo;descripcion_problema;fecha_compra;precio_reparacion
+hw1182932;Sevilla;04/04/2019;04/05/2019;sn172946873;portátil;Falla la pantalla;02/10/2018;98.13
+hw3321984;Sevilla;23/04/2020;30/04/2020;sn172946873;portátil;Falla el disco duro;02/10/2018;114.99
+hw9433219;Sevilla;18/07/2020;03/08/2020;sn172946873;portátil;Falla la pantalla;02/10/2018;65.65
+hw5355538;Sevilla;01/06/2021;10/07/2021;sn172946873;portátil;Falla el teclado;02/10/2018;84.57
+hw8364228;Sevilla;01/06/2022;05/06/2022;sn146392123;móvil;Problemas de conexión;01/03/2022;43.89
+hw7612253;Sevilla;10/08/2022;12/08/2022;sn635442481;sobremesa;Fuente estropeada;04/06/2022;119.99
+hw5127367;Cádiz;04/12/2019;14/12/2019;sn653847326;móvil;Problemas de conexión;13/07/2019;43.89
+hw1548320;Cádiz;05/05/2022;25/05/2022;sn653847326;móvil;Batería defectuosa;13/07/2019;134.44
+hw2068474;Cádiz;05/06/2022;09/06/2022;sn541392743;sobremesa;Error en BIOS;11/05/2018;9.95
+hw4562918;Cádiz;10/02/2021;11/02/2021;sn224352614;móvil;Batería defectuosa;30/01/2019;134.44
+hw7785112;Cádiz;05/10/2021;24/10/2021;sn675402343;portátil;Falla la pantalla;06/11/2020;98.13
+hw1426281;Cádiz;02/01/2021;04/01/2021;sn998526712;móvil;Mal contacto del puerto de carga;14/02/2018;13.22
+hw1943287;Huelva;19/10/2020;29/11/2020;sn771229987;sobremesa;Fuente estropeada;21/09/2018;119.99
+hw4658493;Huelva;24/08/2021;21/09/2021;sn771229987;sobremesa;Error en BIOS;21/09/2018;9.95
+hw8362734;Huelva;02/05/2022;02/07/2022;sn771229987;sobremesa;Fuente estropeada;21/09/2018;119.99
+hw5677746;Huelva;10/06/2022;25/07/2022;sn512433381;móvil;Mal contacto del puerto de carga;03/03/2020;13.22
+hw6652091;Huelva;03/07/2021;30/07/2021;sn119987762;portátil;Falla el teclado;12/12/2020;84.57
+hw9992441;Huelva;06/06/2020;04/07/2020;sn771625332;móvil;Batería defectuosa;01/05/2019;134.44
